@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pung-soo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pung-soo/static/js/main.bd64ccf4.chunk.js",
+    "main.js.map": "/pung-soo/static/js/main.bd64ccf4.chunk.js.map",
+    "runtime-main.js": "/pung-soo/static/js/runtime-main.3a4509a7.js",
+    "runtime-main.js.map": "/pung-soo/static/js/runtime-main.3a4509a7.js.map",
+    "static/js/2.dd9c5eb3.chunk.js": "/pung-soo/static/js/2.dd9c5eb3.chunk.js",
+    "static/js/2.dd9c5eb3.chunk.js.map": "/pung-soo/static/js/2.dd9c5eb3.chunk.js.map",
+    "static/js/3.0c14f117.chunk.js": "/pung-soo/static/js/3.0c14f117.chunk.js",
+    "static/js/3.0c14f117.chunk.js.map": "/pung-soo/static/js/3.0c14f117.chunk.js.map",
+    "index.html": "/pung-soo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pung-soo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dd9c5eb3.chunk.js.LICENSE.txt": "/pung-soo/static/js/2.dd9c5eb3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pung-soo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a4509a7.js",
+    "static/js/2.dd9c5eb3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bd64ccf4.chunk.js"
+  ]
+}
